@@ -1,7 +1,7 @@
 # Tarea4JV
 Este repositorio es para mi curso de programación avanzada. 
 
-Cambio 3 y Cambio 4.
+Cambio 0
 
 ![My Image](imagen3.png)
 
